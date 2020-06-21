@@ -1,4 +1,6 @@
-**Simple Tetris Game**   
+#Simple Tetris Game   
+
+Simple tetris game I made to experiment with SDL2
 
 Compile instructions:   
 ```
